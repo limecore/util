@@ -2,7 +2,7 @@ name: Python package (test.pypi.org)
 
 on:
   release:
-    types: [prereleased]
+    types: [created]
 
 jobs:
   build:
