@@ -2,7 +2,7 @@ name: Python package (pypi.org)
 
 on:
   release:
-    types: [prereleased]
+    types: [published]
 
 jobs:
   build:
