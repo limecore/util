@@ -59,5 +59,5 @@ setuptools.setup(
     packages=["limecore.util"],
     # Requirements
     install_requires=required,
-    python_requires=">=3.7",
+    python_requires=">=3.6",
 )
